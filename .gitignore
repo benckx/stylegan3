@@ -1,2 +1,3 @@
 .idea
 stylegan3/
+*__pycache__/
