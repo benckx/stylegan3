@@ -8,6 +8,9 @@
 ### Change I would like to do
 
 - Make more hyperparameters configurable (number of layers, activation functions, etc)
+- Split the sample image from the snap (i.e. backup of the model), so it can sample an image at each iteration, without
+  making a snapshot
+  - From there, process those images to a video
 - Use 16/9 images
 
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
