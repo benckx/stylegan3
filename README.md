@@ -1,3 +1,15 @@
+## About the fork
+
+### Change I did
+
+- `--metrics` is none by default during training
+- Add Pycharm-generated files to `.gitignore`
+
+### Change I would like to do
+
+- Make more hyperparameters configurable (number of layers, activation functions, etc)
+- Use 16/9 images
+
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
 
 ![Teaser image](./docs/stylegan3-teaser-1920x1006.png)
