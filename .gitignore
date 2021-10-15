@@ -1,3 +1,4 @@
 .idea
 stylegan3/
 *__pycache__/
+*.mp4
